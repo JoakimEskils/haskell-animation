@@ -19,5 +19,5 @@ Run program from root folder:
 OR
 
 - stack build
-- stack exec -- ghc Main.hs -o HaskellAnimation
+- stack exec -- ghc app/Main.hs -o HaskellAnimation
 - ./HaskellAnimation 
