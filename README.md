@@ -14,10 +14,5 @@ If you don't have stack:
 Run program from root folder:
 
 - stack build
-- stack exec -- runghc app/Main.hs
-
-OR
-
-- stack build
-- stack exec -- ghc app/Main.hs -o HaskellAnimation
-- ./HaskellAnimation 
+- stack exec -- ghc app/Main.hs -o main
+- ./main 
