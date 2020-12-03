@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Packaget
 
 main :: IO ()
 main = someFunc
