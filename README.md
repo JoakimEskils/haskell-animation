@@ -14,5 +14,5 @@ If you don't have stack:
 Run program from root folder:
 
 - stack build
-- stack exec -- ghc app/Main.hs -o main
+- stack exec -- ghc app/Main.hs -o main 
 - ./main 
