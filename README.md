@@ -4,7 +4,7 @@
 
 Simple gloss project!
 
-![animation](https://github.com/JoakimEskils/haskell-animation/animation.gif)
+![animation](https://github.com/JoakimEskils/haskell-animation/blob/main/animation.gif)
 
 This project uses Stack. For documentation:
 https://docs.haskellstack.org/en/stable/README/
