@@ -1,6 +1,5 @@
 module Main where
 
-import Data.Complex
 import Graphics.Gloss
 
 main :: IO ()
